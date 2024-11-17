@@ -1,5 +1,6 @@
 # Ingress Controller
 
+# 1.Create an IAM OIDC provider. You can skip this step if you already have one for your cluster.
 ```
 eksctl utils associate-iam-oidc-provider \
     --region us-east-1 \
