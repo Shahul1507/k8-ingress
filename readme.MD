@@ -1,4 +1,4 @@
-# Ingress Controller
+### Ingress Controller
 
 # 1.Create an IAM OIDC provider. You can skip this step if you already have one for your cluster.
 ```
